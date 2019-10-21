@@ -11,10 +11,14 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
-<body>
+<body style="background-image: url('https://www.ultrait.me/images/content/72075ea8-6.jpg');">
 <div id="app">
     <div class="container">
-        <articles></articles>
+        <div class="row">
+            <div class="col-md-6 offset-md-3 my-5 p-5" style="background-color: #009688c9;">
+                <articles></articles>
+            </div>
+        </div>
     </div>
 </div>
 
